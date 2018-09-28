@@ -4,18 +4,38 @@
  * and open the template in the editor.
  */
 package beefarm;
+import java.util.Random;
+import java.util.Scanner;
+import javax.swing.JOptionPane;
 
 /**
  *
- * @author ricar
+ * 
  */
 public class BeeFarm {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+  public static void main(String[] args){
+        String queenName;
+        String colonyName;
+        String careTakerName;
+        int startingSize;
+        int feedDays;
+        int breed;
+        boolean harvest;
+        boolean lifeSpan;
+        String newQueenName;
+                
+       
+       
+        
+        //System.out.println("Queen's Name: "+ queenName);
+      
+        
+     
+ 
+  }
     
-}
+    
+    
+    
+
